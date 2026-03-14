@@ -23,11 +23,12 @@ Currently seeking ML Engineer opportunities in the UK.
 
 ## 🚀 Projects
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [Luma](https://github.com/AsefDaiyan/Luma) | Python Flask web application | Python · Flask · SQLAlchemy |
-| 🔜 NLP Classifier | Text classification with DistilBERT — coming soon | PyTorch · HuggingFace |
-| 🔜 ML Pipeline | End-to-end tabular data pipeline — coming soon | scikit-learn · XGBoost |
+| Project | Description | Stack | Status |
+|---------|-------------|-------|--------|
+| [Luma](https://github.com/AsefDaiyan/Luma) | Scalable social media app with load balancing, auto-scaling, Docker Compose, Azure Blob Storage & CI/CD | Python · Flask · Docker · Azure | ✅ Complete |
+| 🔜 NLP Classifier | Text classification with DistilBERT — fine-tuned transformer model with live demo | PyTorch · HuggingFace | 🚧 Coming soon |
+| 🔜 ML Pipeline | End-to-end tabular ML pipeline — EDA, feature engineering, model training & evaluation | scikit-learn · XGBoost · pandas | 🚧 Coming soon |
+| 🔜 MSc Dissertation | Applied ML/Deep Learning research project | PyTorch · TBD | 🔬 In progress |
 
 ---
 
