@@ -25,9 +25,10 @@ Currently seeking ML Engineer opportunities in the UK.
 
 | Project | Description | Stack | Status |
 |---------|-------------|-------|--------|
+| [Customer Churn Prediction](https://github.com/AsefDaiyan/customer-churn-analysis) | End-to-end churn prediction on IBM Telco dataset — EDA, Logistic Regression & Random Forest, business insights | scikit-learn · pandas · seaborn | Complete |
+| [Sentiment Analysis — DistilBERT](https://github.com/AsefDaiyan/sentiment-distilbert) | Fine-tuned DistilBERT for binary sentiment & 5-class star rating prediction with live Gradio demo | PyTorch · HuggingFace · Gradio | Complete |
 | [Luma](https://github.com/AsefDaiyan/Luma) | Scalable social media app with load balancing, auto-scaling, Docker Compose, Azure Blob Storage & CI/CD | Python · Flask · Docker · Azure | Complete |
-| NLP Classifier | Text classification with DistilBERT, fine-tuned transformer model with live demo | PyTorch · HuggingFace | Coming soon |
-| ML Pipeline | End-to-end tabular ML pipeline, EDA, feature engineering, model training & evaluation | scikit-learn · XGBoost · pandas | Coming soon |
+| [ML & Data Fundamentals](https://github.com/AsefDaiyan/ml-data-fundamentals) | Hands-on ML & Data Science practice notebooks | NumPy · pandas · scikit-learn | In progress |
 | MSc Dissertation | Applied ML/Deep Learning research project | PyTorch · TBD | In progress |
 
 ---
