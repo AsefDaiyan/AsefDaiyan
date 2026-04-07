@@ -47,7 +47,9 @@ Available for freelance ML, data analysis, and AI projects on Upwork and Fiverr.
 ## Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed_Asef_Daiyan-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-asef-daiyan-chowdhury-a431a023b/)
-
+[![Upwork](https://img.shields.io/badge/Upwork-Available_for_Hire-6fda44?style=flat&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~010cff33f13e86388b)
+[![Fiverr](https://img.shields.io/badge/Fiverr-Hire_Me-1dbf73?style=flat&logo=fiverr&logoColor=white)](https://www.fiverr.com/asefda007)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-Models_%26_Spaces-yellow?style=flat&logo=huggingface&logoColor=white)](https://huggingface.co/asefDaiyan)
 ---
 
 *Always learning. Always building.*
