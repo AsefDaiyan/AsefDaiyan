@@ -7,7 +7,7 @@ I build end-to-end ML systems, from exploratory data analysis and model
 training to deployment and monitoring, with the goal of engineering
 intelligent, production-ready solutions.
 
-Currently seeking ML Engineer opportunities in the UK.
+Available for freelance ML, data analysis, and AI projects on Upwork and Fiverr. Currently seeking ML Engineer opportunities in the UK.
 
 ---
 
